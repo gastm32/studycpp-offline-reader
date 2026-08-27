@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "98bffb1f65066c17",
+    "type": "split",
+    "children": [
+      {
+        "id": "62c713afdcdaa789",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3260faaf3a715ee9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "25_第二十五章 虚函数/25.0 指向派生对象的基类指针和引用.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25.0 指向派生对象的基类指针和引用"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff0e790cc74120e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a649e99d305bd037",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a97270ae564cd64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "31ff34a5288db3d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a95c6a2c535b6f67",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3e849217b91b54e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c31e9efa070eb91b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7b37738d7ac007b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "题目/第十八章_迭代器与算法_试卷.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "0b3833129ec3526b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "题目/第十八章_迭代器与算法_试卷.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "8c217a17ef96c60e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "30c3ca81630b7784",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "17386138fdb33b31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "题目/第十八章_迭代器与算法_试卷.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "3260faaf3a715ee9",
+  "lastOpenFiles": [
+    "C++学习路线.md",
+    "README.md",
+    "19_第十九章 动态内存分配/19.0 使用new和delete进行动态分配内存.md",
+    "19_第十九章 动态内存分配/19.1 动态分配数组.md",
+    "16_第十六章 动态数组：stdvector/16.10 stdvector和栈行为.md",
+    "16_第十六章 动态数组：stdvector/16.11 stdvectorbool.md",
+    "07_第七章 作用域与编译链接/7.5 内部链接.md",
+    "02_第二章 函数/2.4 局部变量.md",
+    "02_第二章 函数/2.3 函数参数简介.md",
+    "02_第二章 函数/2.1 函数返回值.md",
+    "00_序章/0.5 第一个C++程序.md",
+    "题目/20章后进阶知识点补充总结.md",
+    "碎碎知识点补充/Lambda表达式.md",
+    "碎碎知识点补充/algorithm知识点汇总.md",
+    "题目/综合测试卷(1-20章)_验卷报告.md",
+    "24_第二十四章 继承/24.6 调用继承的函数与重写行为.md",
+    "03_第三章 程序调试/3.6 断点.md",
+    "实践/手撕线程池教程.md",
+    "28_第二十八章 输入输出（IO）/28.0 输入和输出（IO）流.md",
+    "25_第二十五章 虚函数/25.0 指向派生对象的基类指针和引用.md",
+    "24_第二十四章 继承/24.3 派生类的构造函数与初始化.md",
+    "24_第二十四章 继承/24.2 派生类的构造顺序.md",
+    "24_第二十四章 继承/24.1 基本继承.md",
+    "24_第二十四章 继承/24.0 继承简介.md",
+    "18_第十八章 迭代器与算法/18.1 迭代器简介.md",
+    "18_第十八章 迭代器与算法/18.0 对数组进行排序.md",
+    "碎碎知识点补充",
+    "数据结构",
+    "题目/编程题目练习/studentControl.h",
+    "题目/编程题目练习/studentControl.cpp",
+    "题目/编程题目练习/checkSecre.exe",
+    "题目/编程题目练习/bankAccount.h",
+    "题目/编程题目练习/bankAccount.cpp",
+    "题目/编程题目练习/vectorReference.h",
+    "题目/编程题目练习/vectorReference.cpp",
+    "题目/编程题目练习/checkSecre.h"
+  ]
+}
